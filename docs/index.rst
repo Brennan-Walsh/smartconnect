@@ -27,7 +27,7 @@ Contents:
 .. toctree::
   :hidden:
   :maxdepth: 2
-  :caption: Smart Connect Server
+  :caption: SmartConnect
 
   smartconnect-intro
   smartconnect-setup
