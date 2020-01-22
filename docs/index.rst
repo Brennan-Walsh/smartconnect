@@ -13,6 +13,17 @@ Contents:
    :glob:
 
    *
+   
+.. toctree::
+  :hidden:
+  :maxdepth: 2
+  :caption: Aggregate
+
+  aggregate-intro
+  aggregate-setup
+  aggregate-use
+  aggregate-best-practices
+  aggregate-app-engine-legacy
 
 
 
