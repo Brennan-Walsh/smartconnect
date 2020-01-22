@@ -1,5 +1,5 @@
 ========
-Usage
+Usage2
 ========
 
 To use this template, simply update it::
