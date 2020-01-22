@@ -9,22 +9,31 @@ Welcome to the Smart Connect documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
-   :glob:
+  :maxdepth: 1
+  :hidden:
 
-   *
-   
+  getting-started
+
+.. toctree::
+  :hidden:
+  :maxdepth: 1
+  :caption: Collect
+
+  collect-intro
+  collect-setup
+  collect-using
+  collect-best-practices
+
 .. toctree::
   :hidden:
   :maxdepth: 2
-  :caption: Aggregate
+  :caption: Smart Connect Server
 
-  aggregate-intro
-  aggregate-setup
-  aggregate-use
-  aggregate-best-practices
-  aggregate-app-engine-legacy
-
+  smartconnect-intro
+  smartconnect-setup
+  smartconnect-use
+  smartconnect-best-practices
+  smartconnect-app-engine-legacy
 
 
 Indices and tables
