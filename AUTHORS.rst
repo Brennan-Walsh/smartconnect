@@ -1,4 +1,4 @@
-Authors2
+Authors
 -------
 
 * Brennan Walsh
